@@ -59,3 +59,11 @@ Ira executar o projeto
 ```sh
 npm run dev
 ```
+
+## Ferramentas utlizadas
+
+- Nestjs
+- PrismaORM
+- zod
+- dotenv-expand
+- tsx
